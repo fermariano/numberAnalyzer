@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Roboto+Mono:wght@700&family=Roboto:wght@700&family=Source+Code+Pro:wght@500&display=swap');
+
+body {
+    background-color: #CEEDC7;
+}
+
+header {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 23px;
+    color: #379237;
+    font-family: Source Code Pro;
+}
+
+section {
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    width: 600px;
+    height: 440px;
+    background-color: #a6d681;
+    border-radius: 15px;
+    padding: 40px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.521);
+    font-family: Roboto Mono;
+    
+}
+
+input {
+    border-radius: 15px;
+}
+
+#botaoAdd {
+    width: 100px;
+    border-radius: 8px;
+    background-color: #B6E388;
+}
+
+#botaoAdd:hover {
+    background-color: #98be72;
+}
+
+#botaoFin {
+    width: 100px;
+    border-radius: 8px;
+    background-color: #B6E388;
+}
+
+#botaoFin:hover {
+    background-color: #98be72;
+}
+
+#teladiv {
+    margin: auto;
+    background-color: rgb(179, 179, 179);
+    height: 100px;
+    border-radius: 15px;
+    text-align: center;
+    width: 680px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.521);
+    
+}
+
+#numadd {
+    text-align: center;
+    font-family: Roboto Mono;
+    font-size: 20px;
+}
+
+#tela {
+    font-family: Roboto Mono;
+    padding: 35px;
+    font-size: 20px;
+}
